@@ -1,0 +1,11 @@
+name = input("Soe Wunna Tun")
+age = int("29")
+city = input("Myanmar")
+goal = input("What do you become? ")
+
+print()
+print("--------- Personal Information-----")
+print("Name:", name)
+print("Age:", age)
+print("City:", city)
+print("Goal:", goal)
